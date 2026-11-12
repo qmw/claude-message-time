@@ -1,0 +1,5 @@
+{
+  "name": "claude-message-time",
+  "owner": { "name": "qmw" },
+  "plugins": [{ "name": "message-time", "source": "./" }]
+}

@@ -1,0 +1,1 @@
+{ "name": "message-time", "version": "0.1.0", "description": "Small dim date and time under each of Claude's messages", "author": { "name": "qmw" }, "license": "MIT" }
